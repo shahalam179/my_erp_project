@@ -1,4 +1,3 @@
 EPON0/1 has registered 61 ONUs:
 EPON0/2 has registered 26 ONUs:
 EPON0/3 has registered 46 ONUs:
-EPON0/4 has registered 13 ONUs:
