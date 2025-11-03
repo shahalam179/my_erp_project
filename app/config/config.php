@@ -8,3 +8,6 @@ EPON0/7 has registered 0 ONUs:
 EPON0/8 has registered 0 ONUs:
 EPON0/9 has registered 0 ONUs:
 EPON0/10 has registered 0 ONUs:  
+EPON0/11 has registered 0 ONUs:
+EPON0/12 has registered 0 ONUs:
+EPON0/13 has registered 0 ONUs:
